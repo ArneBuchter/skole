@@ -1,0 +1,19 @@
+.productcard {
+  border: 1px solid darkblue;
+  padding: 2em;
+  border-radius: 5px;
+  margin-bottom: 2em;
+}
+
+.productcard__name {
+  color: black;
+}
+
+.productcard__p {
+  color: black;
+}
+
+.productcard__price {
+  font-weight: 700;
+  font-size: 130%;
+}
